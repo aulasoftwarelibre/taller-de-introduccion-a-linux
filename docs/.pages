@@ -1,3 +1,9 @@
 arrange:
   - index.md
-  - other.md
+  - introduccion.md
+  - instalacion.md
+  - comandos.md
+  - personalizacion.md
+  - software.md
+  - seguridad.md
+  - referencias.md
