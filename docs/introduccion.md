@@ -3,6 +3,7 @@
 ## ¿Qué es Linux?
 (Explicar qué es Linux, su filosofía y algo de su historia)
 
+
 ## ¿Por qué debemos usar Linux?
 
 (¿Existen alternativas para todos los programas de Windows? Si no tengo mal entendido, creo que sí...
