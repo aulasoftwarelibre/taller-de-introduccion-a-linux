@@ -22,8 +22,9 @@ La terminal de Linux se basa en un lenguaje de scripting conocido como Bash, her
 
 Para abrir una terminal en la mayoría de las distribuciones de GNU/Linux debemos pulsar las teclas:
 
-    ctrl + alt + t
-
+```cpp
+ctrl + alt + t
+```
 O en su defecto buscarla en el menú de aplicaciones.
 
 ## ¿Qué es un intérprete de comandos?
@@ -36,4 +37,46 @@ Bash es un intérprete de órdenes que generalmente se ejecuta en una ventana de
 
 ## Algunos comandos básicos
 
-## Ejercicio
+|Comando|Descripción|
+|-|-|
+|man|Muestra el manual del comando que le indiquemos|
+|help|Da una ayuda de los comandos|
+|ls|Lista los archivos y directorios|
+|cd|Cambia de directorio|
+|pwd|Muestra la ruta al directorio actual|
+|mkdir|Crea un directorio|
+|rm|Borra archivos|
+|mv|Mueve o renombra archivos y directorios|
+|nano|Abre un editor de texto en la terminal|
+|chmod|Cambia permisos de archivos y directorios|
+|su|Cambia de usuario|
+|whoami|Muestra el nombre de usuario actual|
+|logname|Muestra el nombre de usuario|
+|id|Muestra datos de identificación del usuario|
+|finger|Da información de usuario|
+|who|Muestra los usuarios actuales del sistema|
+|chown|Cambia el propietario de un fichero|
+|top|Muestra los procesos que se están ejecutando y permite matarlos|
+|ps|Muestra la lista de procesos del usuario|
+|ps aux	|Muestra la lista de procesos de la máquina|
+|kill|Envía un evento concreto a un proceso|
+|killall|Mata un proceso por su nombre|
+|time|Mide el tiempo que tarda un proceso en ejecutarse|
+|fg|Trae a primer plano un proceso parado o en segundo plano|
+|bg|Pone un proceso en segundo plano|
+|df|Muestra el espacio libre de los discos/dispositivos|
+|ssh|Se conecta a otra máquina de forma remota (remote shell)|
+|reboot|Reinicia la máquina|
+|shutdown|Apaga el sistema|
+
+## Crea tus propios comandos
+
+## Ejercicios
+
+Ahora vamos a realizar los siguientes ejercicios para afianzar los contenidos y empezar a acostumbrarnos a la terminal
+
+### Ejercicio 1
+
+### Ejercicio 2
+
+### Ejercicio 3
