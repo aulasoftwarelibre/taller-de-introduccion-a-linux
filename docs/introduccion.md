@@ -12,6 +12,56 @@ A pesar de que en la jerga cotidiana la mayoría de las personas usan el vocablo
 
 Sin embargo, tras publicar Torvalds su núcleo Linux en 1991 y ser este usado junto al software del proyecto GNU, una parte significativa de los medios generales y especializados han utilizado el término «Linux» para referirse a estos sistemas operativos completos.​ Cabe señalar que, existen derivados de sistemas operativos que usan el núcleo Linux, pero que no tienen componentes GNU, como por ejemplo el sistema operativo Android.
 
+Parte de Alex:
+
+GNU/Linux es el nombre que reciben los sistemas operativos basados en Unix. Al igual que Windows o MacOS, Linux es el software necesario para que el hardware de un ordenador funcione correctamente.
+
+Unix es un sistema operativo desarrollado en 1969 en los laboratorios Bell de AT&T. Uno de los colaboradores del proyecto fue Dennis Ritchie, también desarrollador del famoso lenguace de programación C.
+
+El nombre de GNU/Linux se debe a que estos sistemas operativos se formaron mediante la combinación de distintos proyectos entre ellos GNU.
+
+GNU es un sistema operativo de tipo Unix, además de una colección de programas para el proyecto GNU creado por Richard Stallman (1983). El nombre de GNU es un acrónimo de "GNU's Not Unix", ya que GNU se diferencia de Unix por ser software libre, además de no contener código de Unix (sólo su tipo de diseño).
+
+Entonces, ¿qué es exactamente GNU/Linux?
+Por un lado tenemos los programas y herramientas desarrollados por el proyecto GNU, que buscaba ser un sistema operativo libre. Por otro, en 1991 Linus Torvalds, por aquel entonces estudiante en la universidad, estaba utilizando el sistema operativo MINIX, que consistía en un clon de Unix dirigido a la enseñanza. Torvalds decidió crear su propio núcleo. Es entonces cuando desarrolla Linux. Linux es el Kernel o Núcleo del sistema operativo GNU/Linux. 
+Un kernel es el software encargado de gestionar los recursos del sistema. 
+
+Kernel Linux + Herramientas GNU = GNU/Linux
+
+
+El concepto de Software Libre caracteriza tanto a GNU/Linux como al proyecto GNU.
+
+El software libre es un software cuyo código fuente puede ser estudiado, modificado y utilizado libremente con cualquier finalidad. Así como ser redistribuido.
+Lo opuesto sería el software privativo.
+
+(Poner ejemplos de software libre)Firefox, Open Office, Moodle
+
+Para que un software se considere libre, debe cumplir las "cuatro libertades":
+1.Libertad de uso.
+2.Libertad de estudio.
+3.Libertad de distribución.
+4.Libertad de mejora.
+
+Ahora bien, si bien es verdad que gran parte del software libre es gratuito, no todos lo son. De hecho se puede cobrar por un programa de software libre.
+
+Realmente, el software libre es un movimiento social, que lucha por poder utilizar, compartir y estudiar el software.
+
+La Free Software Foundation defiende que el software es conocimiento y que debería ser accesible a todo el mundo.
+
+La mayoría de proyectos de software libre son mantenidos por la propia comunidad de usuarios y desarrolladores.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## ¿Por qué debemos usar Linux?
 
