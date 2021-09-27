@@ -108,7 +108,7 @@ Ahora vamos a realizar los siguientes ejercicios para afianzar los contenidos y 
 
 Descarga el siguiente script a través de la terminal, ejecutalo y averigua lo que ha hecho. Si ha creado algún directorio borralo.
 
-[script.sh](https://github.com/aulasoftwarelibre/taller-de-introduccion-a-linux/blob/master/docs/script.sh")
+[script.sh](https://github.com/aulasoftwarelibre/taller-de-introduccion-a-linux/blob/master/docs/script.sh)
 
 ### Ejercicio 2
 
