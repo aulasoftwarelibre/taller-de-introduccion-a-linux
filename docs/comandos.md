@@ -66,20 +66,49 @@ Bash es un intérprete de órdenes que generalmente se ejecuta en una ventana de
 |bg|Pone un proceso en segundo plano|
 |df|Muestra el espacio libre de los discos/dispositivos|
 |ssh|Se conecta a otra máquina de forma remota (remote shell)|
+|wget|Descarga archivos de internet|
 |reboot|Reinicia la máquina|
 |shutdown|Apaga el sistema|
 
 ## Crea tus propios comandos
 
-Como ya hemos visto, ubuntu nos permite modificar y organizar todo para dejarlo a nuestro gusto, incluso los comandos de la propia terminal. Para ello debemos de buscar modificar un archivo llamado bashrc al que accederemos por medio del siguiente comando:
+Como ya hemos visto, ubuntu nos permite modificar y organizar todo para dejarlo a nuestro gusto, incluso los comandos de la propia terminal. Para ello debemos de modificar el archivo llamado bashrc al que accederemos por medio del siguiente comando:
 
     nano ~/.bashrc
+
+Y se nos abrirá una ventana como esta:
+
+![Bashrc](images/bashrc.png)
+
+Una vez aquí bajaremos hasta el final del archivo donde podremos añadir nuestros propios comandos escribiendo lo siguiente:
+
+    alias <nombreDelComando>='<ordenQueEjecutara>'
+
+Simplemente debemos de darle un nombre al comando y asignarle una orden. Un ejemplo para crear una carpeta seria
+
+    alias hola='mkdir adios'
+
+Una vez que hemos añadido nuestro alias, guardamos el fichero y ejecutamos el siguiente comando para poder utilizarlo sin necesidad de reiniciar la terminal
+
+    source ~/.bashrc
+
+Para eliminar un alias agregado a través de la línea de comandos, se puede utilizar el comando unalias.
+
+    unalias nombre_del_alias
+
+En caso de querer eliminar todas las definiciones de alias, podemos ejecutar el siguiente comando:
+
+    unalias -a [elimina todos los alias]
 
 ## Ejercicios
 
 Ahora vamos a realizar los siguientes ejercicios para afianzar los contenidos y empezar a acostumbrarnos a la terminal
 
 ### Ejercicio 1
+
+Descarga el siguiente script, ejecutalo y averigua lo que ha hecho. Si ha creado algún directorio borralo.
+
+<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">Download FILE</a>
 
 ### Ejercicio 2
 
