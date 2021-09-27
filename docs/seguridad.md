@@ -1,5 +1,9 @@
 # Seguridad
 
+<div align="center">
+    <img width="100%" src="../images/security.jpeg" alt="impress">
+</div>
+
 ## ¿Es Seguro GNU/Linux?
 
 La seguridad, en GNU/Linux, como ocurre con Windows o macOS, no la da un solo sistema, ni aplicación, al igual que tampoco la da un solo administrador o usuario. Por contra, es un concepto multifactorial, y que depende de muchos factores sumados entre si y actuando en sinergia.

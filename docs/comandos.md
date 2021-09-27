@@ -71,6 +71,10 @@ Bash es un intérprete de órdenes que generalmente se ejecuta en una ventana de
 
 ## Crea tus propios comandos
 
+Como ya hemos visto, ubuntu nos permite modificar y organizar todo para dejarlo a nuestro gusto, incluso los comandos de la propia terminal. Para ello debemos de buscar modificar un archivo llamado bashrc al que accederemos por medio del siguiente comando:
+
+    nano ~/.bashrc
+
 ## Ejercicios
 
 Ahora vamos a realizar los siguientes ejercicios para afianzar los contenidos y empezar a acostumbrarnos a la terminal
