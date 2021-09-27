@@ -21,7 +21,6 @@ Sin embargo, tras publicar Torvalds su núcleo Linux en 1991 y ser este usado ju
 
                               
 El concepto de Software Libre caracteriza tanto a GNU/Linux como al proyecto GNU.
-
 El software libre es un software cuyo código fuente puede ser estudiado, modificado y utilizado libremente con cualquier finalidad. Así como ser redistribuido. Lo opuesto sería el software privativo.
 
 Para que un software se considere libre, debe cumplir las "cuatro libertades":
@@ -32,13 +31,9 @@ Para que un software se considere libre, debe cumplir las "cuatro libertades":
 
 
 Algunos ejemplos de software libre son Firefox, Open Office, Moodle, OBS
-
 Ahora bien, si bien es verdad que gran parte del software libre es gratuito, no todos lo son. De hecho se puede cobrar por un programa de software libre.
-
 Realmente, el software libre es un movimiento social, que lucha por poder utilizar, compartir y estudiar el software libremente.
-
 La Free Software Foundation defiende que el software es conocimiento y que debería ser accesible a todo el mundo.
-
 La mayoría de proyectos de software libre son mantenidos por la propia comunidad de usuarios y desarrolladores.
 
 
