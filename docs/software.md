@@ -13,7 +13,7 @@ Para instalar un programa con Ubuntu software podemos usar el buscador, o guiarn
 
 
 ## Utilizando la herramienta APT
-Como hemos visto, aunque podemos instalar aplicaciones de forma gráfica, siempre podemos recurrir a la terminal.ç
+Como hemos visto, aunque podemos instalar aplicaciones de forma gráfica, siempre podemos recurrir a la terminal.
 Pese a que en un principio esta opción puede parecer más complicada, cuando te acostumbras resulta incluso más cómodo.
 
 ### Los comandos de uso de APT en un terminal son los siguientes:
