@@ -24,10 +24,11 @@ El concepto de Software Libre caracteriza tanto a GNU/Linux como al proyecto GNU
 El software libre es un software cuyo código fuente puede ser estudiado, modificado y utilizado libremente con cualquier finalidad. Así como ser redistribuido. Lo opuesto sería el software privativo.
 
 Para que un software se considere libre, debe cumplir las "cuatro libertades":
-1.Libertad de uso.
-2.Libertad de estudio.
-3.Libertad de modificación.
-4.Libertad de distribución. 
+
+1. Libertad de uso.
+2. Libertad de estudio.
+3. Libertad de modificación.
+4. Libertad de distribución. 
 
 
 Algunos ejemplos de software libre son Firefox, Open Office, Moodle, OBS
