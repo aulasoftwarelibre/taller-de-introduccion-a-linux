@@ -35,5 +35,14 @@ GNU Bash o simplemente Bash (Bourne-again shell) es una popular interfaz de usua
 Bash es un intérprete de órdenes que generalmente se ejecuta en una ventana de texto donde el usuario escribe órdenes en modo texto. Bash también puede leer y ejecutar órdenes desde un archivo, llamado guion o 'script'. Al igual que todos los intérpretes de Unix, es compatible con el agrupamiento de nombres de archivo (coincidencia de comodines), tuberías, here documents, sustitución de comandos, variables y estructuras de control para pruebas de condición e iteración. Las palabras reservadas, la sintaxis, las variables de ámbito dinámico y otras características básicas del lenguaje se copian de sh. Otras características, por ejemplo, el historial, se copian de csh y ksh. Bash es un intérprete de órdenes compatible con POSIX, pero con varias extensiones.
 
 ## Algunos comandos básicos
-
+cd 
+ls 
+pwd 
+grep
+cat
+mkdir
+touch
+rm
+man
+sudo
 ## Ejercicio
