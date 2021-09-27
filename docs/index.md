@@ -23,7 +23,8 @@ manuales libres que pueden encontrarse en la sección de [Referencias](/referenc
 
 Este curso ha sido impartido por las siguientes personas:
 
-
+- [Alex Luna](https://github.com/AlexLunaP)
+- [Marcos Rivera](https://github.com/MarcosRigal)
 
 ## Licencia
 
