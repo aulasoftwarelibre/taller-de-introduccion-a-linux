@@ -17,7 +17,7 @@ GNU es un sistema operativo de tipo Unix, además de una colección de programas
 
 Por un lado tenemos los programas y herramientas desarrollados por el proyecto GNU. Por otro, en 1991 Linus Torvalds, por aquel entonces estudiante en la universidad, estaba utilizando el sistema operativo MINIX, que consistía en un clon de Unix dirigido a la enseñanza. Torvalds decidió crear su propio núcleo. Es entonces cuando desarrolla Linux. Linux es el Kernel o Núcleo del sistema operativo GNU/Linux, es decir, el software encargado de gestionar los recursos del sistema.
 
-                            Kernel Linux + Herramientas GNU = GNU/Linux
+   Kernel Linux + Herramientas GNU = GNU/Linux
 
 Sin embargo, tras publicar Torvalds su núcleo Linux en 1991 y ser este usado junto al software del proyecto GNU, una parte significativa de los medios generales y especializados han utilizado el término «Linux» para referirse a estos sistemas operativos completos.​ Cabe señalar que, existen derivados de sistemas operativos que usan el núcleo Linux, pero que no tienen componentes GNU, como por ejemplo el sistema operativo Android.
 
