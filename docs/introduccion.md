@@ -132,6 +132,45 @@ Algunos conceptos básicos que debemos conocer si queremos profundizar un poco m
 - Su kernel es modular
 - Puedes tocarlo TODO (por eso ten cuidado con lo que tocas y no lo rompas)
 
+## Permisos
+
+Hay 3 atributos básicos para archivos simples: lectura, escritura y ejecutar.
+
+
+ 
+### Permiso de lectura (read)
+Si tienes permiso de lectura de un archivo, puedes ver su contenido.
+
+### Permiso de escritura (write)
+Si tienes permiso de escritura de un archivo, puedes modificar el archivo. Puedes agregar, sobrescribir o borrar su contenido.
+
+### Permiso de ejecución (execute)
+
+Si el archivo tiene permiso de ejecución, entonces puedes decirle al sistema operativo que lo ejecute como si fuera un programa. Si es un programa llamado «foo» lo podremos ejecutar como cualquier comando.
+O un script (interprete) que necesita permiso de lectura y ejecución, un programa compilado solo necesita ser lectura.
+
+### Caracteres atribuidos a los permisos son:
+
+- r quiere decir escritura y viene de Read
+- w quiere decir lectura y viene de Write
+- x quiere decir ejecución y viene de eXecute
+
+### ¿A quien se aplican estos permisos?
+
+- Usuario (u) proviene de user
+- Grupo (g) proviene de group
+- Otros (o) proviene de other
+
+Y se distribuyen de la siguiente forma:
+
+![permisos](images/permisos.png)
+
+### Usando chmod para cambiar los permisos
+
+chmod (change mode) es el comando utilizado para cambiar permisos, se pueden agregar o remover permisos a uno o mas archivos con + (mas) o – (menos)
+
+
+
 
 
 
