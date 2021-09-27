@@ -106,10 +106,12 @@ Ahora vamos a realizar los siguientes ejercicios para afianzar los contenidos y 
 
 ### Ejercicio 1
 
-Descarga el siguiente script, ejecutalo y averigua lo que ha hecho. Si ha creado algún directorio borralo.
+Descarga el siguiente script a través de la terminal, ejecutalo y averigua lo que ha hecho. Si ha creado algún directorio borralo.
 
-<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">Download FILE</a>
+[script.sh](https://github.com/aulasoftwarelibre/taller-de-introduccion-a-linux/blob/master/docs/script.sh")
 
 ### Ejercicio 2
 
-### Ejercicio 3
+Conectate por ssh a tu cuenta de la Universidad de Córdoba y descarga el archivo del ejercicio anterior y copialo al escritorio. Para ello haz uso del siguiente comando
+
+    ssh tuUsuario@ts.uco.es
