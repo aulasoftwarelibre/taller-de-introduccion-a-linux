@@ -73,3 +73,13 @@ Convertimos el paquete con alien:
 sudo alien file.rpm
 ```
 Y se generaría el .deb
+
+### Instalar binarios
+
+Otras veces, cuando queramos instalar un software en linux nos encontraremos con un comprimido con la extensión .tar.gz que deberemos descoprimir para ejecutarlo pues en su interior se encuentran los archivos binarios del programa que queremos lanzar.
+
+La principal ventaja de este tipo de compresión frente a otros formatos como .zip o .rar es entre otras cosas que mantiene intactos los permisos de los archivos cosa que como ya hemos visto es muy importante.
+
+Para descompirmir este tipo de archivos haremos uso del siguiente comando:
+
+      tar -zxvf nombreDelArchivo.tar.gz
