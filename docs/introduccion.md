@@ -4,6 +4,8 @@
 
 ![Linux](images/linux.svg)
 
+GNU/Linux es el nombre que reciben los sistemas operativos basados en Unix. Al igual que Windows o MacOS, es el software necesario para que el hardware de un ordenador funcione correctamente. Además, los sistemas GNU/Linux suelen ser de código abierto, multiplataforma, multiusuario y multitarea.
+
 GNU/Linux es la denominación técnica y generalizada que reciben una serie de sistemas operativos de tipo Unix, que también suelen ser de código abierto, multiplataforma, multiusuario y multitarea. Estos sistemas operativos están formados mediante la combinación de varios proyectos, entre los cuales destaca el entorno GNU, encabezado por el programador estadounidense Richard Stallman junto a la Free Software Foundation, una fundación cuyo propósito es difundir el software libre, así como también el núcleo de sistema operativo conocido como «Linux», encabezado por el programador finlandés Linus Torvalds.
 
 El desarrollo de estos sistemas operativos es uno de los ejemplos más prominentes de software libre: todo su código fuente puede ser utilizado, modificado y redistribuido libremente por cualquier persona, empresa o institución, bajo los términos de la Licencia Pública General de GNU, así como de otra serie de licencias.​ La idea de desarrollar un sistema operativo libre y basado en el sistema operativo Unix, se remonta a mediados de la década de 1980 con el proyecto GNU.
@@ -14,7 +16,7 @@ Sin embargo, tras publicar Torvalds su núcleo Linux en 1991 y ser este usado ju
 
 Parte de Alex:
 
-GNU/Linux es el nombre que reciben los sistemas operativos basados en Unix. Al igual que Windows o MacOS, Linux es el software necesario para que el hardware de un ordenador funcione correctamente.
+
 
 Unix es un sistema operativo desarrollado en 1969 en los laboratorios Bell de AT&T. Uno de los colaboradores del proyecto fue Dennis Ritchie, también desarrollador del famoso lenguace de programación C.
 
