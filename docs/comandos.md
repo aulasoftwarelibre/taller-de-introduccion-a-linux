@@ -106,9 +106,16 @@ Ahora vamos a realizar los siguientes ejercicios para afianzar los contenidos y 
 
 ### Ejercicio 1
 
-Descarga el siguiente script a través de la terminal, ejecutalo y averigua lo que ha hecho. Si ha creado algún directorio borralo.
+Copia y pega el siguiente script a través de la terminal en un fichero, ejecutalo y averigua lo que ha hecho. Si ha creado algún directorio borralo.
 
-[script.sh](https://github.com/aulasoftwarelibre/taller-de-introduccion-a-linux/blob/master/docs/script.sh)
+```Bash
+#!/bin/bash
+cd
+cd .local/
+mkdir hola
+cd hola
+df > hola.txt
+```
 
 ### Ejercicio 2
 
