@@ -8,7 +8,7 @@ GNU/Linux es el nombre que reciben los sistemas operativos basados en Unix. Al i
 
 El desarrollo de estos sistemas operativos es uno de los ejemplos más prominentes de software libre: todo su código fuente puede ser utilizado, modificado y redistribuido libremente por cualquier persona, empresa o institución, bajo los términos de la Licencia Pública General de GNU, así como de otra serie de licencias.​ La idea de desarrollar un sistema operativo libre y basado en el sistema operativo Unix, se remonta a mediados de la década de 1980 con el proyecto GNU.
 
-Unix es un sistema operativo desarrollado en 1969 en los laboratorios Bell de AT&T. Uno de los colaboradores del proyecto fue Dennis Ritchie, también desarrollador del famoso lenguace de programación C.
+Unix es un sistema operativo desarrollado en 1969 en los laboratorios Bell de AT&T. Uno de los colaboradores del proyecto fue Dennis Ritchie, también desarrollador del famoso lenguaje de programación C.
 
 GNU es un sistema operativo de tipo Unix, además de una colección de programas (compiladores, intérpretes de comandos, etc) para el proyecto GNU creado por Richard Stallman (1983). El nombre de GNU es un acrónimo de "GNU's Not Unix", ya que GNU se diferencia de Unix por ser software libre, además de no contener código de Unix (sólo su tipo de diseño).
 
