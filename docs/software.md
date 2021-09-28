@@ -72,7 +72,7 @@ Convertimos el paquete con alien:
 ```cpp
 sudo alien file.rpm
 ```
-Y se generaría el .deb
+Y se generaría el .deb , que ya podríamos instalar con dpkg como hemos visto antes.
 
 ### Instalar binarios
 
